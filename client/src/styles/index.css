@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  color: darkblue;
+}
+
+body {
+  background: lightgreen;
+}
+
+header {
+  width: 100%;
+  background: lightblue;
+}
+
+footer {
+  width: 100%;
+  background: lightgreen;
+}
+/*# sourceMappingURL=index.css.map */
